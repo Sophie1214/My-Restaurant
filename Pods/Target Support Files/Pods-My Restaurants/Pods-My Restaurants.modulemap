@@ -1,0 +1,6 @@
+framework module Pods_My_Restaurants {
+  umbrella header "Pods-My Restaurants-umbrella.h"
+
+  export *
+  module * { export * }
+}
